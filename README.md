@@ -11,3 +11,18 @@ SSID 2.5G 名称为：OpenWrt
 SSID SSID 5.0G 名称为：OpenWrt_5G
 
 WIFI 密码为：password
+
+
+插件
+
+passwall
+
+adbyby plus
+
+aria2
+
+frpc
+
+smartdns
+
+unblockmusic
